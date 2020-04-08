@@ -1,0 +1,38 @@
+html{
+    background-color: rgb(228, 248, 199);
+}
+ul.Information {
+    width: 20%;
+    position: absolute;
+    float: left;
+    top: 0px; right: 0px;
+}
+div.Information {
+    width: 50%;
+    position: absolute;
+    top: 10px; right: 100px;
+    float: left;
+}
+
+#topMenu {
+    color: rgb(66, 19, 238);
+    font-size: 30px;
+}
+
+
+.Converters{
+    color: rgb(66, 19, 238);
+    font-size: 20px;
+}
+#infoTitle {
+    color: rgb(66, 19, 238);
+    font-size: 30px;
+}
+#info1 {
+    color: purple;
+    font-size: 23px; 
+}
+#info2 {
+    color: rgb(42, 19, 245);
+    font-size: 20px; 
+}
